@@ -1,0 +1,35 @@
+.Sidebar{
+    display: flex;
+    flex-direction: coloumn;
+flex: 0.35;
+background-color: white
+
+
+}
+
+.Sidebar_header{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    border-right: 1px solid lightgrey;
+    
+    
+    }
+    
+    .Sidebar_headerRight{
+        display: flex;
+        justify-content: space-between;
+    }
+    
+.sidebar_chats{
+flex: 1;
+background-color: white;
+
+}
+    
+    
+
+
+    
+    
+    
